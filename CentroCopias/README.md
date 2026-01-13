@@ -1,3 +1,6 @@
+
+[Enunciado completo](https://github.com/user-attachments/files/24588764/Practica.1de2.PSP.2.pdf)
+
 📚 Centro de Copias de la Biblioteca (Java)
 
   Simulación en Java del funcionamiento de un centro de copias de una biblioteca utilizando programación concurrente.
