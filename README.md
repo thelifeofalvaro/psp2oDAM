@@ -20,8 +20,6 @@ El proyecto plantea un escenario en el que varios estudiantes compiten por utili
 - Gestión de recursos compartidos.
 - Control temporal de la ejecución.
 
-[Ver proyecto](./)
-
 ## 🛠️ Tecnología
 
 - Java
